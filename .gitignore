@@ -1,0 +1,35 @@
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Project specific
+/python/app/storage/*.db
+/frontend/node_modules/
+/python/__pycache__/
+/python/app/__pycache__/
+/python/app/game/__pycache__/
+/python/app/storage/__pycache__/
